@@ -1,0 +1,12 @@
+# Main navigation links
+main:
+  - title: "Home"
+    url: "/e1w/"
+  - title: "Syllabus"
+    url: "/e1w/syllabus"
+  - title: "Schedule"
+    url: "/e1w/schedule"
+  - title: "Assignments"
+    url: "/e1w/assignments"
+  - title: "Staff"
+    url: "/e1w/staff"

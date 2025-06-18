@@ -1,0 +1,23 @@
+# Site settings
+title: "Your Course Title"
+description: "Course description goes here"
+url: "https://yourusername.github.io" # Update with your GitHub username
+baseurl: "/e1w" # Important - matches your subdirectory
+
+# Just the Class settings
+remote_theme: kevinlin1/just-the-class
+plugins:
+  - jekyll-remote-theme
+
+# Course information
+term: "Term Name (e.g., Fall 2025)"
+course: "Course Name"
+course_number: "Course Number"
+institution: "Your Institution"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .github
