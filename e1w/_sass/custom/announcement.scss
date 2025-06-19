@@ -1,0 +1,13 @@
+.announcement {
+  @extend %card;
+
+  h1, h2 {
+    font-size: 1.25rem !important;
+    font-weight: 500 !important;
+  }
+
+  .announcement-meta {
+    font-size: 0.75rem !important;
+    color: #6e7781;
+  }
+}

@@ -1,0 +1,56 @@
+.staffer {
+  display: flex;
+  margin: 1rem 0;
+
+  .staffer-image {
+    border-radius: 50%;
+    height: 100px;
+    margin-right: 1rem;
+    width: auto;
+  }
+
+  .anchor-heading {
+    right: auto;
+    left: -1.25rem;
+  }
+
+  .staffer-name,
+  .staffer-meta,
+  p {
+    margin: 0 0 0.25rem 0;
+  }
+
+  .staffer-name {
+    display: inline-block;
+  }
+
+  .staffer-pronouns {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;
+    border-radius: 2em;
+    color: #656d76;
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 500;
+    line-height: 1;
+    padding: 0.125em 0.75em;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+  }
+
+  .staffer-meta {
+    dt, dd, dd + dt {
+      margin-top: 0;
+    }
+  }
+
+  @media (min-width: 31.25rem) {
+    .staffer-meta {
+      display: grid;
+      grid-template-columns: auto 1fr;
+    }
+  }
+}
