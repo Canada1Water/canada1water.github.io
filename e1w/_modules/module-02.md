@@ -1,7 +1,5 @@
 ---
 title: Watershed Delineation and Model Boundary
-parent: Modules
-nav_order: 2
 ---
 
 # Module 2: Watershed Delineation and Model Boundary

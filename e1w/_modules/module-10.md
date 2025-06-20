@@ -1,7 +1,5 @@
 ---
 title: Monitoring Data
-parent: Modules
-nav_order: 11
 ---
 
 # Module 10: Monitoring Data

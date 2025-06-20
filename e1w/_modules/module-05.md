@@ -1,7 +1,5 @@
 ---
 title: Land Surface and Hydrological Datasets
-parent: Modules
-nav_order: 5
 ---
 
 # Module 5: Land Surface and Hydrological Datasets

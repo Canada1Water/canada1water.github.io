@@ -1,7 +1,5 @@
 ---
 title: Introduction to HGS and GIS Roles in Modeling
-parent: Modules
-nav_order: 1
 ---
 
 # Module 1: Introduction to HGS and GIS Roles in Modeling
