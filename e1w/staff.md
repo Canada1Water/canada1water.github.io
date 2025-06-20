@@ -24,3 +24,13 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+{% assign team_members = site.staffers | where: 'role', 'Team Member' %}
+{% assign num_team_members = team_members | size %}
+{% if num_team_members != 0 %}
+## Team Members
+
+{% for staffer in team_members %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
