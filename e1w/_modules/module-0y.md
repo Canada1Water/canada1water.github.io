@@ -1,5 +1,7 @@
 ---
 title: Case Study Example
+parent: Modules
+nav_order: 10
 ---
 
 # Module Y: Case Study Example

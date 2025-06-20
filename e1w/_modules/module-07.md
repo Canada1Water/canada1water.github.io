@@ -1,5 +1,7 @@
 ---
 title: Climate Datasets
+parent: Modules
+nav_order: 7
 ---
 
 # Module 7: Climate Datasets

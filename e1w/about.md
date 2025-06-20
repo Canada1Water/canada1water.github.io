@@ -3,6 +3,7 @@ layout: page
 title: About
 description: >-
     Course information and learning objectives.
+nav_order: 2
 ---
 
 # About Part 1 – Data Management for Integrated Hydrologic Model Development

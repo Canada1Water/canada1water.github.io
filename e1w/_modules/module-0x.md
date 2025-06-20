@@ -1,5 +1,7 @@
 ---
 title: Automation and Scripting GIS Workflows
+parent: Modules
+nav_order: 9
 ---
 
 # Module X: Automation and Scripting GIS Workflows

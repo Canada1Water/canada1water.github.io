@@ -1,5 +1,7 @@
 ---
 title: Finite Element Mesh
+parent: Modules
+nav_order: 8
 ---
 
 # Module 8: Finite Element Mesh
