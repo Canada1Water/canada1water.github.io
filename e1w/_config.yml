@@ -4,10 +4,10 @@
 # which you are expected to set up once and rarely edit after that.
 
 # Site settings
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Your Name
+title: Part 1 – Data Management for Integrated Hydrologic Model Development
+tagline: A 40-hour course for hydrological modelers and GIS specialists
+description: A 40-hour course designed for hydrological modelers, GIS specialists, and hydrogeologists working with the integrated surface–subsurface flow model HydroGeoSphere (HGS)
+author: Guido Vettoretti
 baseurl: '/e1w' # the subpath of your site, e.g. /blog
 url: 'https://canada1water.github.io' # the base hostname & protocol for your site
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
@@ -24,10 +24,10 @@ plugins:
   - jekyll-remote-theme
 
 aux_links:
-  Your Name:
+  Course Repository:
     - 'https://github.com/canada1water'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  HydroGeoSphere:
+    - 'https://www.hydrogeosphere.org/'
 footer_content:
 
 # Collections for website data

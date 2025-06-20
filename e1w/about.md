@@ -2,10 +2,10 @@
 layout: page
 title: About
 description: >-
-    Course policies and information.
+    Course information and learning objectives.
 ---
 
-# About
+# About Part 1 – Data Management for Integrated Hydrologic Model Development
 {:.no_toc}
 
 ## Table of contents
@@ -16,17 +16,51 @@ description: >-
 
 ---
 
-## About
+## Course Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+This comprehensive **40-hour course** is specifically designed for hydrological modelers, GIS specialists, and hydrogeologists who work with the integrated surface–subsurface flow model **HydroGeoSphere (HGS)**.
 
-## Lecture
+## Target Audience
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+- Hydrological modelers
+- GIS specialists  
+- Hydrogeologists
+- Researchers working with integrated surface-subsurface flow models
+- Graduate students in hydrology, hydrogeology, or related fields
 
-## Resources
+## Learning Objectives
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+By the end of this course, participants will be able to:
+
+1. **Identify, acquire and prepare** relevant GIS datasets for hydrogeological modeling
+2. **Automate GIS workflows** for large-scale or repeated model builds
+3. **Understand best practices** when using GIS data in HGS
+4. **Apply important GIS tools** effectively in their modeling workflow
+
+## Course Structure
+
+The course is organized into 10 comprehensive modules covering:
+
+- **Module 1:** Introduction to HGS and GIS Roles in Modeling (3 hrs)
+- **Module 2:** Watershed Delineation and Model Boundary (3 hrs)
+- **Module 3:** Digital Elevation Models (3 hrs)
+- **Module 4:** Geology Datasets (3 hrs)
+- **Module 5:** Land Surface and Hydrological Datasets (3 hrs)
+- **Module 7:** Climate Datasets (3 hrs)
+- **Module 8:** Finite Element Mesh (3 hrs)
+- **Module X:** Automation and Scripting GIS Workflows (3 hrs)
+- **Module Y:** Case Study Example (3 hrs)
+- **Module 10:** Monitoring Data (3 hrs)
+
+## Prerequisites
+
+- Basic understanding of GIS concepts
+- Familiarity with hydrogeological modeling principles
+- Some experience with data management and file organization
+
+## Course Format
+
+This course combines theoretical knowledge with hands-on practical exercises, emphasizing real-world application of data management techniques for HGS modeling.
 
 ## Assignments
 

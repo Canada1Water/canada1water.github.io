@@ -1,6 +1,6 @@
 ---
 name: Eric Kessel
-role: Team Member
+role: Exercise Moderator
 email: eric@example.com
 website: 
 photo: eric.jpg

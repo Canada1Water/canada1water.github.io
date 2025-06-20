@@ -1,28 +1,46 @@
 ---
 layout: home
-title: Just the Class
+title: Part 1 – Data Management for Integrated Hydrologic Model Development
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Part 1 – Data Management for Integrated Hydrologic Model Development
 ---
 
-# Just the Class
+# Part 1 – Data Management for Integrated Hydrologic Model Development
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+This **40-hour course** is designed for hydrological modelers, GIS specialists, and hydrogeologists working with the integrated surface–subsurface flow model **HydroGeoSphere (HGS)**.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+## Learning Objectives
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+By the end of the course, participants will be able to:
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+- **Identify, acquire and prepare** relevant GIS datasets for hydrogeological modeling
+- **Automate GIS workflows** for large-scale or repeated model builds  
+- **Understand best practices** when using GIS data in HGS
+- **Introduction to important GIS tools**
 
-## Getting Started
+## Course Team
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+- **Course Coordinator:** Guido V.
+- **Exercise Moderator:** Eric (Messenger board? Teams?)
+
+## Course Overview
+
+This course covers the essential data management skills needed for integrated hydrologic modeling with HGS, including:
+
+- **Module 1:** Introduction to HGS and GIS Roles in Modeling (3 hrs)
+- **Module 2:** Watershed Delineation and Model Boundary (3 hrs)  
+- **Module 3:** Digital Elevation Models (3 hrs)
+- **Module 4:** Geology Datasets (3 hrs)
+- **Module 5:** Land Surface and Hydrological Datasets (3 hrs)
+- **Module 7:** Climate Datasets (3 hrs)
+- **Module 8:** Finite Element Mesh (3 hrs)
+- **Module X:** Automation and Scripting GIS Workflows (3 hrs)
+- **Module Y:** Case Study Example (3 hrs)
+- **Module 10:** Monitoring Data (3 hrs)
+
+Each module combines theoretical concepts with hands-on practical exercises using real-world datasets and industry-standard tools.
+
+[View the complete schedule]({{ site.baseurl }}{% link schedule.md %}) | [Meet the staff]({{ site.baseurl }}{% link staff.md %})

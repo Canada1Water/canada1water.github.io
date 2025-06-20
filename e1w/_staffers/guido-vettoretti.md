@@ -1,6 +1,6 @@
 ---
 name: Guido Vettoretti
-role: Team Member
+role: Course Coordinator
 email: guido@example.com
 website: 
 photo: guido.jpg
