@@ -44,7 +44,6 @@ jobs:
         run: |
           mkdir -p _site/e1w
           cp -r _site_temp/* _site/e1w/
-          echo '<meta http-equiv="refresh" content="0; url=/e1w/">' > _site/index.html
           
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
