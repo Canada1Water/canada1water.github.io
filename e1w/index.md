@@ -8,7 +8,7 @@ seo:
   name: Part 1 – Data Management for Integrated Hydrologic Model Development
 ---
 
-# Part 1 – Data Management for Integrated Hydrologic Model Development
+# Integrated Hydrologic Model Development
 
 This **40-hour course** is designed for hydrological modelers, GIS specialists, and hydrogeologists working with the integrated surface–subsurface flow model **HydroGeoSphere (HGS)**.
 
